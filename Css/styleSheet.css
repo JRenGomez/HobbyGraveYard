@@ -8,3 +8,7 @@
     pointer-events: none;
     opacity: 0.65;
 }
+.navbar-brand img {
+    max-height: 40px; /* Set the maximum height of the logo */
+    width: auto; /* Maintain aspect ratio */
+}
