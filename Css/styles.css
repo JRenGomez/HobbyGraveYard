@@ -6600,6 +6600,21 @@ textarea.form-control-lg {
   line-height: 1.5;
 }
 
+.d-none {
+  display: none;
+}
+.invalid-feedback {
+  display: none;
+}
+.btn.disabled {
+  pointer-events: none;
+  opacity: 0.65;
+}
+.navbar-brand img {
+  max-height: 40px; /* Set the maximum height of the logo */
+  width: auto; /* Maintain aspect ratio */
+}
+
 .offcanvas-body {
   flex-grow: 1;
   padding: var(--bs-offcanvas-padding-y) var(--bs-offcanvas-padding-x);
