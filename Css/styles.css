@@ -3730,7 +3730,7 @@ textarea.form-control-lg {
 }
 
 .navbar {
-  background-color: #3365D3 !important; /* Override Bootstrap's default background color */
+  background-color: whitesmoke !important; /* Override Bootstrap's default background color */
 
   --bs-navbar-padding-x: 0;
   --bs-navbar-padding-y: 0.5rem;
